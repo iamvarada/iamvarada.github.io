@@ -8,8 +8,8 @@ layout: default
 You can reach me at:
 <hr size="6" width="50%" align="left" color="black">
 <br> **personal email**: krishna2014vit (at)gmail (dot) com
-<br> **work email**: krishna (dot) varadarajan (at) nio (dot) io
+<br> **work email**: kvaradarajan (at) rivian (dot) com
 <br> **cell**: _available on request_
-<br> **mail**: 3200 N 1st Street, San Jose, CA, USA, 95134
+<br> **mail**: 2708 Orchard Pkwy, Suite 10, CA, USA, 95134
 
 [back](./)
