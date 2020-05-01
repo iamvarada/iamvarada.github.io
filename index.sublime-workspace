@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"secon",
+				"second_test_image"
+			],
+			[
+				"firs",
+				"first_test_image"
+			],
+			[
+				"with",
+				"with_moon"
+			],
+			[
+				"just",
+				"just_wall"
+			],
+			[
+				"me",
+				"Me"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"num",
+				"num_2"
+			],
+			[
+				"SA",
+				"station_details"
+			],
+			[
+				"sa",
+				"station_details"
+			],
+			[
+				"st",
+				"station_details"
+			],
+			[
+				"sou",
+				"source_idx"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"curren",
+				"current_position"
+			],
+			[
+				"curr",
+				"current_station"
+			],
+			[
+				"veh",
+				"veh_state"
+			],
+			[
+				"dest",
+				"destination_idx"
+			],
+			[
+				"get",
+				"get_remaining_miles"
+			],
+			[
+				"ve",
+				"veh_state"
+			],
+			[
+				"rem",
+				"remaining_distances"
+			],
+			[
+				"ne",
+				"neighbours"
+			],
+			[
+				"curre",
+				"current_station"
+			],
+			[
+				"com",
+				"compute_h_cost"
+			],
+			[
+				"des",
+				"destination_idx"
+			],
+			[
+				"cu",
+				"current_location"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"node",
+				"node_to_node_cost_"
+			],
+			[
+				"cur",
+				"current_position"
+			],
+			[
+				"nod",
+				"node_to_node_cost_"
+			],
+			[
+				"location",
+				"location_idx"
+			],
+			[
+				"rech",
+				"rehcarge_time"
+			],
+			[
+				"remi",
+				"remaining_miles"
+			],
+			[
+				"remain",
+				"remaining_miles_"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"re",
+				"time_to_recharge"
+			],
+			[
+				"stat",
+				"station_details"
+			],
+			[
+				"source",
+				"source_index"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"stta",
+				"station_details"
+			],
+			[
+				"construct",
+				"construct_graph"
+			],
+			[
+				"init",
+				"initial_charger_name"
+			],
+			[
+				"end_node",
+				"end_node_idx_"
+			],
+			[
+				"end",
+				"end_node_"
+			],
+			[
+				"row",
+				"row_node_"
+			],
+			[
+				"cont",
+				"constexpr"
+			],
+			[
+				"k",
+				"kVehicleSpeed"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"cos",
+				"cos_term"
+			],
+			[
+				"sin",
+				"sin_term"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/gimmicks.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/experience.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/projects.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/contacts.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/instructions_dummy.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/index.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/_layouts/default.html",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/_sass/jekyll-theme-minimal.scss",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/README.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/another-page.md",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/_config.yml",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/index.html",
+		"/Users/krishnavaradarajan/Krishna_Varadarajan_Personal/My external codes/iamvarada.github.io/style.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
