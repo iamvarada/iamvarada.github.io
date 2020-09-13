@@ -5,7 +5,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
  -->
 
-[Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](https://github.com/iamvarada/CV-Resume/blob/master/Krishna_Varadarajan__Resume.pdf) | [Past Life](http://pravegaracingvit.herokuapp.com/) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
+[Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](./resume.html) | [Past Life](http://pravegaracingvit.herokuapp.com/) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
 
 > The bird is powered by its life and by its motivation.
 > - Dr. A.P.J. Abdul Kalam
