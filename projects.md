@@ -38,9 +38,9 @@ layout: default
 
   <div class="column">
     <div class="content">
-      <img src="/assets/search_and_rescue_robot.png" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Benefts of Using Multiple Sensors on Reliable Space Headway Estimates (<a href="https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2019/59148/V001T01A006/1070510">Paper Abstract</a>)</h3>
+      <img src="/assets/img/headway_multiple_methods.png" alt="thesis" style="width:75%">
+      <p>Reliable space headways are critical for safe operation of connected and autonomous vehicles. These headway estimates also need to be accurately designated to the ego-vehicle's lane. The goal of the project was to understand the role of using multiple sensors in achieving the furthest reliable headway estimates of an open maneuvering space. It was observed that by using a vehicle-mounted camera along with a bumper-mounted RADAR and GPS mounted on a commercial truck, space headways can be detected upto and beyond the range of a RADAR. </p>
     </div>
   </div>
 
