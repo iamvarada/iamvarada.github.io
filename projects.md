@@ -28,18 +28,23 @@ layout: default
 
   <div class="column">
     <div class="content">
-      <img src="nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Autonomous Maze Search and Rescue Robot</h3>
+      <img src="/assets/img/search_and_rescue_robot.png" alt="robot" style="width:50%">
+      <p>Autonomous robots can come to assist humans during various challenging situations, one such environment being search and rescue operations. Tennis balls were used as resuce targets inside a random maze. The robot used a fish eye camera to detect the ball's pixel location and orientation. 5 long and short-range IR sensors were used to navigate the maze. Navigation algorithm ran on an Arduino and the computer vision algorithm for detecting the tennis balls ran on a Raspberry Pi. The boards communicated through serial ports. The robot switched between various navigation modes and the ball-fetching mode using a finite state machine. </p>
     </div>
   </div>
+  
+   <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
   <div class="column">
     <div class="content">
-      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <img src="/assets/search_and_rescue_robot.png" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
+
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </div>
 
