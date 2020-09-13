@@ -18,11 +18,14 @@ layout: default
 
   <div class="column">
     <div class="content">
-      <img src="lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Autonomous Object Picking Arm (<a href="https://github.com/iamvarada/Autonomous-Object-Picking-Machine/blob/master/autonomous_object_picking_machine_final_code.ino">Code</a>) </h3>
+      <img src="/assets/img/two_link_arm.jpg" alt="linkArm" style="width:50%">
+      <p>Autonomous object detection and grasping has a wide range of application across various domains. The goal of this project was to design and develop an autonomous oject picking machine. The arm was mounted on a rotating disk with a range of 360 degree. The object detection module was built using a Pixy camera, and the actuation and control module was deployed on an Arduino. The device was capable of detecting a red object anywehre in its 360 degree range, pick it up and place it at a pre-assigned location. Inverse kinematics of a two-link arm was used to determine the initial position of the object. </p>
     </div>
   </div>
+
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
   <div class="column">
     <div class="content">
       <img src="nature.jpg" alt="Nature" style="width:100%">
