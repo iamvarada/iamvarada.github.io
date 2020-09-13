@@ -5,32 +5,205 @@ layout: default
 
 # Brief Bio
 
-I received a B.Tech. in Mechanical Engineering from [VIT University](https://vit.ac.in/), Vellore in India in 2014, and a M.S. in Mechanical Engineering from [The Pennsylvania State University](https://www.psu.edu/) in 2019. I specialized in robotics, control systems, and state estimation during my Masters, and my thesis broadly focused on free space estimation in front of a RADAR and camera equipped connected truck. My Masters work was funded by [Advanced Research and Project Agency - Energy (ARPA-E)](https://arpa-e.energy.gov/) divison of [Department of Engergy (DOE)](https://www.energy.gov/). The work was presented and published in ASME Dyanamic Systems and Control Conference (DSCC) 2018 [link](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2019/59148/V001T01A006/1070510).
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-Before coming to the U.S.A to puruse graudate studies, I worked as a junior research fellow for two years at the [Indian Institute of Science (IISc)](https://www.iisc.ac.in/) in Bengaluru, India. During my time in IISc, I worked on two projects : a smart asistive device, and setting up India's first smart-manufacturing lab. During my time working on the two projects, I partnered and worked with [Ministry of Science](http://techport.gov.in/) (India), [Fortis Hospitals](https://fortisbangalore.com/campaign/best-multispeciality-hospital-in-bangalore/?gclid=Cj0KCQjwka_1BRCPARIsAMlUmEpqfEa965UuabLwMFOzkKfiDBaAu1hwdnfkZdFaXWA0s_-WLELHV8QaArocEALw_wcB) (Bengaluru), and [Boeing Research and Technology](http://www.boeing.com/) (USA). The work resulted in 1 patent, apart from setting up the smart manufacturing lab.
+body {
+  background-color: #FFFFFF;
+  font-family: Helvetica, sans-serif;
+}
 
-During my B.Tech., I worked with the [Camera Culture Group](http://cameraculture.media.mit.edu/) at [MIT Media Lab](https://www.media.mit.edu/) on devweloping diagnostic devices for eye. I was selected to present one of the work with the group to Dr. A.P.J. Abdul Kalam, the former President of India. Additionally, I worked with the [Consortium of Affordable Medical Technologies (CAMTech)](http://camtech.mgh.harvard.edu/) at the [Massachusetts General Hospital (MGH)](https://www.massgeneral.org/) to develop affordable medical technologies for developing and under-developed economies. During this time, I participated and won multiple medical hackathons in Uganda, India, and USA. Finally, I enjoyed a 1-year stint building Formula Student race cars and represented my undergraudate university at the [Formula SAE Italy](https://www.formula-ata.it/) in 2012.
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-I currently working in the Bay Area on developing perception algorithms, and writing the corresponding software for the self-driving system of [Rivian Automotive LLC](https://rivian.com/). I have been working on self-driving algorithns for nearly 2 years now.
- 
- <br /> 
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: black;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
 
-> My favorite lines are: <br /> 
-> <br /> 
-> Where the mind is without fear and the head is held high; <br /> 
-> Where knowledge is free; <br /> 
-> Where the world has not been broken up into fragments <br /> 
-> By narrow domestic walls; <br /> 
-> Where words come out from the depth of truth; <br /> 
-> Where tireless striving stretches its arms towards perfection; <br /> 
-> <br /> 
-> Where the clear stream of reason has not lost its way; <br /> 
-> Into the dreary desert sand of dead habit; <br /> 
-> Where the mind is led forward by thee; <br /> 
-> Into ever-widening thought and action; <br /> 
-> Into that heaven of freedom, <br /> 
-> My Father, let my country awake <br /> 
-> <br /> 
-> - Dr. Rabindranath Tagore <br /> 
+/* Container around content */
+.container {
+  padding: 1px 1px;
+  position: relative;
+  background-color: black;
+  width: 50%;
+}
 
-[back](./)
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid black;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 2px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid black;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent black;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 2px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid black;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent black transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  
+  /* Full-width containers */
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+  left: 15px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2> Sep. 2019</h2>
+      <p>Joined the perception team at Rivian, coding algorithms for adventureous electric vehickles</p>
+    </div>
+  </div>
+
+  <div class="container right">
+    <div class="content">
+      <h2>May 2019</h2>
+      <p>Walked at the Master's graduation cerermony at Penn State; this was an unforseen dream back when I was in college in India. Huge thanks to the ARPA-E and the ME deaprtment at Penn State for funding my Master's education. </p>
+    </div>
+  </div>
+
+  <div class="container left">
+    <div class="content">
+      <h2>Nov. 2018</h2>
+      <p>Joined the sensor fusion team at NIO USA, to research and code algorithms for Level-4 self-driving electric cars; there used to be a time when I thought I would never get here because I did not have a CS degree. Exciting stuff! </p>
+    </div>
+  </div>
+
+  <div class="container right">
+    <div class="content">
+      <h2>Aug. 2017</h2>
+      <p>Will be spending the Fall at Volvo Group at Hagerstown, Maryland in their Advanced Technology and Research Group, developing energy optimization algorithms for their trucks </p>
+    </div>
+  </div>
+
+  <div class="container left">
+    <div class="content">
+      <h2>Aug. 2016</h2>
+      <p>Joined The Pennsylvania State University's Mechanical Engineering department to pursue a Master's in Mechanical Engineering, specializing in robotics and state estimation; I will be purusing Master's research in the Intelligent Vehicles and Systems Group. </p>
+    </div>
+  </div>
+
+  f<div class="container right">
+    <div class="content">
+      <h2>May 2015</h2>
+      <p>Our work on the patient transfer device has been applied for an Indian patent.</p>
+    </div>
+  </div>
+
+  <div class="container left">
+    <div class="content">
+      <h2>July 2014</h2>
+      <p>Joined IISc as a junior reseach fellow at Indian Institute of Science; I chose to gain some research experiene over the existing offers from the industry. </p>
+    </div>
+  </div>
+
+  <div class="container right">
+    <div class="content">
+      <h2>May 2014</h2>
+      <p> Graduated from VIT University with a Bachelor's degree </p>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
