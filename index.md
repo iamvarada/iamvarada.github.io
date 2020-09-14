@@ -17,18 +17,6 @@ layout: default
 
 <body>
 
-<!-- Add necessary links  -->
-
-<br>
-
-<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/kvarada/">LinkedIn</a> | 
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/kvarada11">Twitter</a> |
-<i class="fa fa-github"></i> <a href="https://github.com/iamvarada/">Github</a> |
-<i class="fa fa-instagram"></i> <a href="https://www.instagram.com/iamvarada/">Instagram</a> 
-
-<br>
-<br>
-
 <!-- Content -->
 
 I am a roboticist at heart, and a professional in the domain of robotics. I seek to understand robots better. I am strongly optimistic that intelligent systems can help humanity solve a myriad of challenges in diverse domains. My career interests lie at intersection of robot algorithms and software development. My skillset includes sensor fusion, state estimation, controls, deep learning, and mechatronics.
