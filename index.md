@@ -37,8 +37,9 @@ I am currently developing perception algorithms for L2 self-driving systems for 
 
 In my an alternate life, I am a musician. My other interests include: music, going on hikes, sitting by the water bodies, football (soccer), and experiencing different places and cultures. My long term goal is to start-up my own personal robotics company building self-sufficient robots that can integrate seamlessly into our society, contributing joy in the lives of people.
 
-[back](./)
 
 </body>
 
 </html>
+
+[home](./)

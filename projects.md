@@ -48,4 +48,4 @@ layout: default
 
 </div>
 
-[back](./)
+[home](./)

@@ -5,11 +5,27 @@ layout: default
 
 # Contact Information
 
-You can reach me at:
-<hr size="6" width="50%" align="left" color="black">
-<br> **personal email**: krishna2014vit (at)gmail (dot) com
-<br> **work email**: kvaradarajan (at) rivian (dot) com
-<br> **cell**: _available on request_
-<br> **mail**: 2708 Orchard Pkwy, Suite 10, CA, USA, 95134
+<html>
 
-[back](./)
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+You can reach me at:
+
+<hr size="6" width="50%" align="left" color="black">
+
+<br> <i class="fa fa-envelope"></i> krishna2014vit (at)gmail (dot) com
+
+<br> <i class="fa fa-briefcase"></i> kvaradarajan (at) rivian (dot) com
+
+<br> <i class="fa fa-phone"></i> _available on request_
+
+<br> <i class="fa fa-street-view"></i> 2708 Orchard Pkwy, Suite 10, CA, USA, 95134
+
+</body>
+
+</html>
+
+[home](./)

@@ -5,4 +5,4 @@ layout: default
 
 # About Me
 
-[back](./)
+[home](./)

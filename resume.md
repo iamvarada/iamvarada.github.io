@@ -6,3 +6,5 @@ layout: default
 <button type="submit" onclick="window.open('/assets/docs/Krishna_Varadarajan_web_res.pdf')">View Resume</button>
 
 <p> Please click the button to view my resume. Thanks! </p>
+
+[home](./)
