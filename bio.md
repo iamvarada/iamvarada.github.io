@@ -3,9 +3,8 @@ layout: default
 ---
 [Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](./resume.html) | [Past Life](http://pravegaracingvit.herokuapp.com/) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
 
-# Brief Bio
-
 <html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
