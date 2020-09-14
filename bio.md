@@ -150,39 +150,39 @@ body {
   <div class="container left">
     <div class="content">
       <h2> Sep. 2019</h2>
-      <p>Joined the perception team at Rivian, coding algorithms for adventureous electric vehickles</p>
+      <p>Joined the perception team at Rivian, coding algorithms for adventurous electric vehicles</p>
     </div>
   </div>
 
   <div class="container right">
     <div class="content">
       <h2>May 2019</h2>
-      <p>Walked at the Master's graduation cerermony at Penn State; this was an unforseen dream back when I was in college in India. Huge thanks to the ARPA-E and the ME deaprtment at Penn State for funding my Master's education. </p>
+      <p>Walked at my Master's graduation cerermony at Penn State; this was an elusive dream back when I was in college in India. Huge thanks to the ARPA-E and the ME deaprtment at Penn State for funding my Master's education. </p>
     </div>
   </div>
 
   <div class="container left">
     <div class="content">
       <h2>Nov. 2018</h2>
-      <p>Joined the sensor fusion team at NIO USA, to research and code algorithms for Level-4 self-driving electric cars; there used to be a time when I thought I would never get here because I did not have a CS degree. Exciting stuff! </p>
+      <p>Joined the sensor fusion team at NIO USA, to research and code algorithms for Level-4 self-driving electric cars; this was exciting because there was a time when I thought I would never get here as I a not a CS grad. </p>
     </div>
   </div>
 
   <div class="container right">
     <div class="content">
       <h2>Aug. 2017</h2>
-      <p>Will be spending the Fall at Volvo Group at Hagerstown, Maryland in their Advanced Technology and Research Group, developing energy optimization algorithms for their trucks </p>
+      <p>Spent the Fall semester at Volvo Group at Hagerstown, Maryland at their Advanced Technology and Research Group, develop energy optimization algorithms for their trucks </p>
     </div>
   </div>
 
   <div class="container left">
     <div class="content">
       <h2>Aug. 2016</h2>
-      <p>Joined The Pennsylvania State University's Mechanical Engineering department to pursue a Master's in Mechanical Engineering, specializing in robotics and state estimation; I will be purusing Master's research in the Intelligent Vehicles and Systems Group. </p>
+      <p>Joined Penn State Mechanical Engineering department to pursue a Master's in Mechanical Engineering. I specialized in robotics and state estimation, publishing my work in ASME DSCC 2019. </p>
     </div>
   </div>
 
-  f<div class="container right">
+  <div class="container right">
     <div class="content">
       <h2>May 2015</h2>
       <p>Our work on the patient transfer device has been applied for an Indian patent.</p>
