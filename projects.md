@@ -3,6 +3,16 @@ layout: default
 ---
 [Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](./resume.html) | [Past Life](http://pravegaracingvit.herokuapp.com/) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
 
+<html>
+
+<head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+
+</head>
+
+<body>
+
 <!-- Portfolio Gallery Grid -->
 <div class="row">
 
@@ -47,5 +57,9 @@ layout: default
   <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </div>
+
+</body>
+
+</html>
 
 [home](./)
