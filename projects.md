@@ -13,6 +13,9 @@ layout: default
 
 <body>
 
+<p>These are some of fun projects that I have worked on in the past in the domain of robotics.</p>
+<br>
+
 <!-- Portfolio Gallery Grid -->
 <div class="row">
 
