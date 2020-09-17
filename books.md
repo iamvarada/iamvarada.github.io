@@ -88,6 +88,7 @@ body {
   <div class="column">
     <img src="/assets/img/open_tile.jpeg" style="width:100px;height:128px;" title="Open" alt="Open">
     <img src="/assets/img/imitation_game_tile.jpeg" style="width:100px;height:128px;" title="The Imitation Game" alt="The Imitation Game">
+    <img src="/assets/img/last_lecture_tile.jpeg" style="width:100px;height:128px;" title="The Last Lecture" alt="The Last Lecture">
 
   </div>
   <div class="column">
