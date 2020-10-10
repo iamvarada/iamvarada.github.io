@@ -19,7 +19,7 @@ layout: default
 
 <!-- Content -->
 
-I am a roboticist at heart, and a professional in the domain of robotics. I seek to understand robots better, understand how robots can become closer to humans in the way they perceive, maneuver, and perform tasks. I am strongly optimistic that intelligent systems can help humanity solve a myriad of challenges in diverse domains. My career interests lie at intersection of robot algorithms and software development. My skillset includes sensor fusion, state estimation, controls, deep learning, and mechatronics.
+I am a roboticist at heart, and a professional in the domain of robotics. I seek to understand robots better, understand how robots can become closer to humans in the way they perceive, maneuver, and perform tasks. I am strongly optimistic that intelligent systems can help humanity solve a myriad of challenges in diverse domains. My career interests lie at intersection of robot algorithms and software development. My demonstrated skillset includes sensor fusion, state estimation, controls, mathematics, and deep learning.
 
 I am currently developing perception algorithms for L2 self-driving systems for adventurous electric vehicles at Rivian Automotive LLC. Prior to this, I worked as a perception engineer at NIO USA Inc., developing state-of-the-art sensor fusion algorithms for the L4 autonomous driving stack for their electric passenger vehicles. I strive to write readable, efficient, and optimized software. My prefered programming language is C++, I also use Python, MATLAB, and HTML/CSS in my projects.
 
