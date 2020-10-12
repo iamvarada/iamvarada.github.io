@@ -5,7 +5,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
  -->
 
-[Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](./resume.html) | [books](./books.html) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
+[Projects](./projects.html) | [Brief Bio](./bio.html) | [Resume](./resume.html) | [Books](./books.html) | [Gimmicks](https://www.behance.net/kvarada) | [Contact](./contacts.html)
 
 <html>
 
