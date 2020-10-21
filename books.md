@@ -69,7 +69,7 @@ body {
 <body>
 
 <!-- Header -->
-<p>These are some of the books that I have enjoyed reading (/listening to, most of the times). All these books have inspired me, touched me, and/or influenced my views in some way. </p>
+<p>These are a select few books that I have enjoyed reading (/listening to, most of the times). I have been trying to maintain a record of the books that I have read more recently on my goodreads profile, <a href="https://www.goodreads.com/kvarada">here</a></p>
 
 <!-- Photo Grid -->
 <div class="row"> 
