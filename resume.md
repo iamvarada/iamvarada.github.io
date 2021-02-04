@@ -13,7 +13,7 @@ layout: default
 
 <body>
 
-<button type="submit" onclick="window.open('/assets/docs/Krishna_Varadarajan_web_res.pdf')">View Resume</button>
+<button type="submit" onclick="window.open('/assets/docs/Krishna_Varadarajan_web_res.pdf')">View Resume (Light mode)</button> <button type="submit" onclick="window.open('/assets/docs/Krishna_Varadarajan_web_res_dark_mode.pdf')">View Resume (Dark mode)</button>
 
 <p> Please click the button to view my resume. Thanks! </p>
 
